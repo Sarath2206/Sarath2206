@@ -8,7 +8,7 @@
 
 
 ## Technologies
-- [x] Git
+- [x] **Git**
 
 
 
