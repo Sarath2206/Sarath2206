@@ -6,8 +6,6 @@
 
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40px" data-canonical-src="https://simpleicons.org/icons/c.svg" style="max-width:100%;">
 
-
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
 <br />
