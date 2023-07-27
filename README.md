@@ -21,6 +21,7 @@ I'm __Sarath__, an undergrad at the Indian Institute of Technology Jodhpur major
 - Cancer prediction and classification models.
 - Trying to develop a genarilized model for various disease predictions.
 - Protein sequencing techniques.
+- Biosensors 
 
 ---
 
