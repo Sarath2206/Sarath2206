@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm __Sarath__, an undergrad at the Indian Institute of Technology Jodhpur majoring in Bioengineering. I have a keen interest in AI/ML and working in the domain fo AI in healthcare. 
+I'm __Sarath__, working at August AI as an AI Engineer. I graduated from the Indian Institute of Technology Jodhpur majoring in Bioengineering. I have a keen interest in AI/ML and working in the domain of AI in healthcare. 
 
 ---
 
@@ -10,9 +10,9 @@ I'm __Sarath__, an undergrad at the Indian Institute of Technology Jodhpur major
 ---
 
 📕 I'm currently learning ... 
-- Machine Learning
-- Neural Networks and Deep Learning
-- Sequence Models
+- LLM fine-tuning
+- Genome sequences processing
+- Building AI Agents
 - Bioinformatics
 
 ---
